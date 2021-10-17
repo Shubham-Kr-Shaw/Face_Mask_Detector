@@ -46,7 +46,7 @@ All the dependencies and required libraries are included in the file <code>requi
 ## 🚀&nbsp; Installation
 1. Clone the repo
 ```
-$ git clone https://github.com/Shubham2443/Face-Mask-Detection.git
+$ git clone https://github.com/Shubham-Kr-Shaw/Face-Mask-Detection.git
 ```
 
 2. Change your directory to the cloned repo and create a Python virtual environment named 'test'
